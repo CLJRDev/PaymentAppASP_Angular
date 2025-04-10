@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SRA4RZ5qF7LhNWKJIpyKGJmUH8jdsgzvS++E4DgSgWo=",
+  "Source": "PaymentBE",
+  "BasePath": "_content/PaymentBE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

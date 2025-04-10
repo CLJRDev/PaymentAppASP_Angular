@@ -10,7 +10,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-//Add Database
+//Connect with Database
 builder.Services.AddDbContext<PaymentDetailContext>(option => 
 option.UseSqlServer(builder.Configuration.GetConnectionString("DevConnection")));
 

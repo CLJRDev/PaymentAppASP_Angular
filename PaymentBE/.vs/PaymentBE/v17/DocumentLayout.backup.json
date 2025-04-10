@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\PaymentBE\\",
+  "WorkspaceRootPath": "D:\\C#\\PaymentWeb\\PaymentBE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|d:\\c#\\paymentbe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|d:\\c#\\paymentweb\\paymentbe\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|solutionrelative:controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|d:\\c#\\paymentbe\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|solutionrelative:models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|d:\\c#\\paymentweb\\paymentbe\\migrations\\paymentdetailcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|solutionrelative:migrations\\paymentdetailcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|d:\\c#\\paymentbe\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|solutionrelative:models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|d:\\c#\\paymentweb\\paymentbe\\migrations\\20250410160247_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|solutionrelative:migrations\\20250410160247_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|d:\\c#\\paymentbe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|d:\\c#\\paymentweb\\paymentbe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|d:\\c#\\paymentbe\\paymentbe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|d:\\c#\\paymentweb\\paymentbe\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|solutionrelative:models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|d:\\c#\\paymentweb\\paymentbe\\paymentbe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|solutionrelative:paymentbe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|d:\\c#\\paymentweb\\paymentbe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|d:\\c#\\paymentweb\\paymentbe\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFAEF06-4B60-4036-A18E-7FBBD003887F}|PaymentBE.csproj|solutionrelative:models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,67 +42,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentDetailController.cs",
+              "DocumentMoniker": "D:\\C#\\PaymentWeb\\PaymentBE\\Controllers\\PaymentDetailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentDetailController.cs",
+              "ToolTip": "D:\\C#\\PaymentWeb\\PaymentBE\\Controllers\\PaymentDetailController.cs",
+              "RelativeToolTip": "Controllers\\PaymentDetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:12:21.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentDetailContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\C#\\PaymentWeb\\PaymentBE\\Migrations\\PaymentDetailContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\PaymentDetailContextModelSnapshot.cs",
+              "ToolTip": "D:\\C#\\PaymentWeb\\PaymentBE\\Migrations\\PaymentDetailContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\PaymentDetailContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:03:01.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250410160247_First Migration.cs",
+              "DocumentMoniker": "D:\\C#\\PaymentWeb\\PaymentBE\\Migrations\\20250410160247_First Migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250410160247_First Migration.cs",
+              "ToolTip": "D:\\C#\\PaymentWeb\\PaymentBE\\Migrations\\20250410160247_First Migration.cs",
+              "RelativeToolTip": "Migrations\\20250410160247_First Migration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:02:47.386Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\C#\\PaymentBE\\appsettings.json",
+              "DocumentMoniker": "D:\\C#\\PaymentWeb\\PaymentBE\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\C#\\PaymentBE\\appsettings.json",
+              "ToolTip": "D:\\C#\\PaymentWeb\\PaymentBE\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-10T15:23:45.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#\\PaymentBE\\Program.cs",
+              "DocumentMoniker": "D:\\C#\\PaymentWeb\\PaymentBE\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\C#\\PaymentBE\\Program.cs",
+              "ToolTip": "D:\\C#\\PaymentWeb\\PaymentBE\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T15:22:24.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PaymentDetailContext.cs",
-              "DocumentMoniker": "D:\\C#\\PaymentBE\\Models\\PaymentDetailContext.cs",
+              "DocumentMoniker": "D:\\C#\\PaymentWeb\\PaymentBE\\Models\\PaymentDetailContext.cs",
               "RelativeDocumentMoniker": "Models\\PaymentDetailContext.cs",
-              "ToolTip": "D:\\C#\\PaymentBE\\Models\\PaymentDetailContext.cs",
+              "ToolTip": "D:\\C#\\PaymentWeb\\PaymentBE\\Models\\PaymentDetailContext.cs",
               "RelativeToolTip": "Models\\PaymentDetailContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T16:14:03.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PaymentBE.csproj",
-              "DocumentMoniker": "D:\\C#\\PaymentBE\\PaymentBE.csproj",
+              "DocumentMoniker": "D:\\C#\\PaymentWeb\\PaymentBE\\PaymentBE.csproj",
               "RelativeDocumentMoniker": "PaymentBE.csproj",
-              "ToolTip": "D:\\C#\\PaymentBE\\PaymentBE.csproj",
+              "ToolTip": "D:\\C#\\PaymentWeb\\PaymentBE\\PaymentBE.csproj",
               "RelativeToolTip": "PaymentBE.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-09T16:10:18.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "PaymentDetail.cs",
-              "DocumentMoniker": "D:\\C#\\PaymentBE\\Models\\PaymentDetail.cs",
+              "DocumentMoniker": "D:\\C#\\PaymentWeb\\PaymentBE\\Models\\PaymentDetail.cs",
               "RelativeDocumentMoniker": "Models\\PaymentDetail.cs",
-              "ToolTip": "D:\\C#\\PaymentBE\\Models\\PaymentDetail.cs",
+              "ToolTip": "D:\\C#\\PaymentWeb\\PaymentBE\\Models\\PaymentDetail.cs",
               "RelativeToolTip": "Models\\PaymentDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

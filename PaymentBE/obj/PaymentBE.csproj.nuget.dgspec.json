@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\PaymentBE\\PaymentBE.csproj": {}
+    "D:\\C#\\PaymentWeb\\PaymentBE\\PaymentBE.csproj": {}
   },
   "projects": {
-    "D:\\C#\\PaymentBE\\PaymentBE.csproj": {
+    "D:\\C#\\PaymentWeb\\PaymentBE\\PaymentBE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\PaymentBE\\PaymentBE.csproj",
+        "projectUniqueName": "D:\\C#\\PaymentWeb\\PaymentBE\\PaymentBE.csproj",
         "projectName": "PaymentBE",
-        "projectPath": "D:\\C#\\PaymentBE\\PaymentBE.csproj",
+        "projectPath": "D:\\C#\\PaymentWeb\\PaymentBE\\PaymentBE.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\PaymentBE\\obj\\",
+        "outputPath": "D:\\C#\\PaymentWeb\\PaymentBE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,6 +57,20 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.35, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.18, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
