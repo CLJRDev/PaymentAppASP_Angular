@@ -1,25 +1,25 @@
-<form #form="ngForm" (submit)="onSubmit(form)">
-  <input type="hidden" [value]="service.formData.paymentDetailId" name="paymentDetailId" />
+<form #form="ngForm" (submit)="onSubmit(form)" [class.submitted]="service.formSubmitted" novalidate>
+  <input type="hidden" [value]="service.formData.paymentDetailID" name="paymentDetailID" />
   <div class="mb-3">
     <label>Card Owner Name</label>
     <input class="form-control form-control-lg" placeholder="Name On Card" #cardOwnerName="ngModel"
-      [(ngModel)]="service.formData.cardOwnerName" name="cardOwnerName" />
+      [(ngModel)]="service.formData.cardOwnerName" name="cardOwnerName" required />
   </div>
   <div class="mb-3">
     <label>Card Number</label>
     <input class="form-control form-control-lg" placeholder="16 Digit Card Number" #cardNumber="ngModel"
-      [(ngModel)]="service.formData.cardNumber" name="cardNumber" maxlength="16" />
+      [(ngModel)]="service.formData.cardNumber" name="cardNumber" maxlength="16" minlength="16" required />
   </div>
   <div class="row">
     <div class="mb-3 col-6">
       <label>Security Code</label>
       <input class="form-control form-control-lg" placeholder="CVV" type='password' #securityCode="ngModel"
-        [(ngModel)]="service.formData.securityCode" name="securityCode" maxlength="3" />
+        [(ngModel)]="service.formData.securityCode" name="securityCode" maxlength="3" minlength="3" required />
     </div>
     <div class="mb-3 col-6">
       <label>Valid Through</label>
       <input class="form-control form-control-lg" placeholder="MM/YY" #expirationDate="ngModel"
-        [(ngModel)]="service.formData.expirationDate" name="expirationDate" />
+        [(ngModel)]="service.formData.expirationDate" name="expirationDate" maxlength="5" minlength="5" required />
     </div>
   </div>
   <div class="d-grid">
